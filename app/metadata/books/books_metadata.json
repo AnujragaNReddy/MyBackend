@@ -1,0 +1,66 @@
+[
+    {
+        "title": "A Little Life",
+        "author": "Hanya Yanagihara",
+        "year": "2022",
+        "subject": "N/A",
+        "keywords": "N/A",
+        "cover_image": "app\\metadata\\books\\covers\\A Little Life (Hanya Yanagihara)_cover.png"
+    },
+    {
+        "title": "After Dark",
+        "author": "Haruki Murakami",
+        "year": "2023",
+        "subject": "N/A",
+        "keywords": "Fiction",
+        "cover_image": "app\\metadata\\books\\covers\\After dark - Haruki Murakami_cover.png"
+    },
+    {
+        "title": "Atomic habits \\( PDFDrive.com \\).pdf",
+        "author": "James Clear",
+        "year": "2020",
+        "subject": "N/A",
+        "keywords": "N/A",
+        "cover_image": "app\\metadata\\books\\covers\\Atomic-Habits-PDF-Download_cover.png"
+    },
+    {
+        "title": "Dopamine Detox",
+        "author": "Thibaut Meurisse",
+        "year": "2025",
+        "subject": "Health & Sports,Mind & Spirit,Personal Development,Self-help",
+        "keywords": "Dopamine Detox",
+        "cover_image": "app\\metadata\\books\\covers\\Dopamine Detox PDF_cover.png"
+    },
+    {
+        "title": "Joseph Murphy - The Power of Your Subconcious Mind (1988).pdf",
+        "author": "Unknown Author",
+        "year": "2006",
+        "subject": "N/A",
+        "keywords": "N/A",
+        "cover_image": "app\\metadata\\books\\covers\\Joseph Murphy - The Power of Your Subconcious Mind (1988)_cover.png"
+    },
+    {
+        "title": "The Art of Being ALONE",
+        "author": "Renuka Gavrani",
+        "year": "2025",
+        "subject": "Personal Development,Self-help,Psychology & Happiness,Psychology",
+        "keywords": "The Art of Being ALONE",
+        "cover_image": "app\\metadata\\books\\covers\\The Art of Being ALONE PDF_cover.png"
+    },
+    {
+        "title": "The Art of Letting Go",
+        "author": "Nick Trenton",
+        "year": "2025",
+        "subject": "Personal Development,Self-help,Psychology & Happiness,Psychology",
+        "keywords": "The Art of Letting Go",
+        "cover_image": "app\\metadata\\books\\covers\\The Art of Letting Go PDF_cover.png"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho & Alan R. Clarke",
+        "year": "2016",
+        "subject": "N/A",
+        "keywords": "General, Fiction, Literary, Alchemists, fables, Visionary & Metaphysical, Young men, Self-realization, Alchemy, Shepherds, Shepherds - Spain - Andalusia, Portuguese fiction, Andalusia (Spain)",
+        "cover_image": "app\\metadata\\books\\covers\\The_Alchemist_cover.png"
+    }
+]
